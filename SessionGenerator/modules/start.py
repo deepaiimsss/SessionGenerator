@@ -1,8 +1,8 @@
 from pyrogram import filters
 from pyrogram.types import Message
 
-from StringGenerator import Sakku
-from StringGenerator.utils import add_served_user, keyboard
+from SessionGenerator import Sakku
+from SessionGenerator.utils import add_served_user, keyboard
 
 
 @Sakku.on_message(filters.command("start") & filters.private & filters.incoming)
