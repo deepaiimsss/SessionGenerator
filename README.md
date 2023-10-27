@@ -1,5 +1,4 @@
 # SessionGenerator
-<details>
 ## 🚀 Heroku Deployment
 
 <h4>Click the button below to deploy Aliza Robot on Heroku!</h4>    
