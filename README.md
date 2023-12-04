@@ -21,7 +21,7 @@
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in config by :
-`vi sapmple.env`
+`vi sample.env`
 - Rename the env file by :
 `mv sample.env .env`
 - Press `I` on the keyboard for editing config
